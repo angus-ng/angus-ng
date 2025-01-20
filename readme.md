@@ -2,7 +2,7 @@
 
 Hello!👋
 
-I’m a full-stack developer who loves solving problems and working with the latest technologies. I also have a background in environment and sustainability. 🌱 I'm always learning, always experimenting, and always up for a new challenge.ha
+I’m a full-stack developer who loves solving problems and working with the latest technologies. I also have a background in environment and sustainability. 🌱 I'm always learning, always experimenting, and always up for a new challenge.
 
 When I’m not coding, you can usually find me gaming, listening to music, or roaming online. Feel free to share your favorite music with me. I’m always looking for new songs! 🎵
 
